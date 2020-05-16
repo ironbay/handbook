@@ -3,7 +3,8 @@
 - Our values listed here are simply a declaration of our preferences.
 - They guide us in creating our ideal environment.
 - They are explicitly not universal truths.
-- We should be able to articulate a valid argument against all of our values
+- It should be entirely valid to believe the opposite of any of our values.
+- We should articulate the best arguments against our values.
 
 ### 1. Build long term relationships
 
