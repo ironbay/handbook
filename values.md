@@ -5,7 +5,7 @@
 - They are explicitly not universal truths.
 - We should be able to articulate a valid argument against all of our values
 
-### Long Term Relationships
+### 1. Build long term relationships
 
 **Our Preference**: We are looking for people who we can work with for the rest of our lives. The intent is to build long term relationships so we don't sweat short term frictions. This means an above average level of closeness with the people you work with.
 
@@ -13,7 +13,7 @@
 
 ---
 
-### Avoid Best Practices
+### 2. Avoid best practices
 
 **Our Preference**: Best practices help avoid ruin rather than achieve greatness - they guarantee mediocrity. We are intentional about everything we do and want to find the best possible way to approach every problem. Nothing is every chosen simply because it is best practice.
 
@@ -21,7 +21,7 @@
 
 ---
 
-### Own The Tooling
+### 3. Own our tooling
 
 **Our Preference**: something
 
@@ -29,7 +29,7 @@
 
 ---
 
-### Avoid Venture Capital
+### 4. Avoid venture capital
 
 **Our Preference**: Venture capital is a distorter of businesses. They involve a party that is seemingly aligned but in practice serves as a massive distraction. Most venture capitalists add negative value to companies.
 
@@ -37,7 +37,7 @@
 
 ---
 
-### Distributed Teams
+### 5. Fully distributed team
 
 **Our Preference**: Our team is entirely distributed. There are no requirements on where anyone needs to be regardless of their role. We put in the effort to develop lightweight processes to enable this. Any challenge that feels like it can be solved by colocating is indicative of a deeper problem.
 
