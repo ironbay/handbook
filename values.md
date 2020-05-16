@@ -5,4 +5,8 @@
 - They are explicitly not universal truths.
 - It should be entirely valid to believe the opposite of any of our values.
 
-### Long Term Mindset
+### Long Term Relationships
+
+### Maximize Leverage
+
+### Stay Small
