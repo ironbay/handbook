@@ -15,11 +15,13 @@
 
 **Our Preference**: Best practices help avoid ruin rather than achieve greatness - they guarantee mediocrity. We are intentional about everything we do and want to find the best possible way to approach every problem. Nothing is every chosen simply because it is best practice.
 
-**Counter**: Best practices reduce risk. It is unlikely you will have the time to innovate in every single area so it can be efficient to borrow good ideas from people who have done it before.
+**Counter**: Best practices reduce risk. It is unlikely you will have the time to innovate across many dimensions so it can be efficient to borrow good ideas from people who have done it before. You should specialize and focus on the narrowest area that you can define.
 
-### Maximize Leverage
+### Own The Tooling
 
-### Stay Small
+**Our Preference**: something
+
+**Counter**: Building your own tooling can be risky. Not every idea you have will be good and can end up being a massive opportunity cost that prevents you from doing what you actually need to do.
 
 ### Avoid Venture Capital
 
@@ -29,6 +31,6 @@
 
 ### Distributed Teams
 
-**Value**:
+**Our Preference**: Our team is entirely distributed. There are no requirements on where anyone needs to be regardless of their role. We put in the effort to develop lightweight processes to enable this. Any challenge that feels like it can be solved by colocating is indicative of a deeper problem.
 
-### Own Our Tooling
+**Counter**: People are hard wired to cooperate in person. Certain things feel entirely unnatural when attempting to do them remotely. The line between work and personal life starts to blur when they're not seperated geographically.
