@@ -37,8 +37,14 @@
 
 ---
 
-### 5. Fully distributed team
+### 5. 100% distributed team
 
 **Our Preference**: Our team is entirely distributed. There are no requirements on where anyone needs to be regardless of their role. We put in the effort to develop lightweight processes to enable this. Any challenge that feels like it can be solved by colocating is indicative of a deeper problem.
 
 **Counter**: People are hard wired to cooperate in person. Certain things feel entirely unnatural when attempting to do them remotely. The line between work and personal life starts to blur when they're not seperated geographically.
+
+### 6. 100% transparent organization
+
+**Our Preferences**: There is no information about the company that is priveleged. This includes compensation numbers. Any attempt to selectively wield information tends to backfire so it's best to share everything up front and let things fall where they may.
+
+**Counter**: Information is a burden. You might just want to focus on what you're responsible for and not be distracted by things out of your direct control.
